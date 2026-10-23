@@ -237,11 +237,13 @@
 
 .about {
   display: grid;
-  grid-template-columns: 240px 693px;
+  grid-template-columns: 287px 693px;
   gap: 72px;
-  margin-top: 120px;
+  width: 1052px;
   min-height: 595px;
-  padding: 0 48px 0 47px;
+  margin-top: 120px;
+  margin-left: 24px;
+  padding: 0;
 }
 
 .about__logo {
@@ -263,7 +265,7 @@
   display: flex;
   flex-direction: column;
   gap: 110px;
-  padding-top: 0;
+  padding-top: 132px;
 }
 
 .about__title {
@@ -289,6 +291,7 @@
   width: 1100px;
   height: 180px;
   padding: 1px 50px 0;
+  margin-top: 172px;
 }
 
 .footer__address {
