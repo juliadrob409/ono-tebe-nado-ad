@@ -317,11 +317,6 @@
   text-decoration: none;
 }
 
-.footer__menu-list a {
-  font-size: 18px;
-  text-decoration: none;
-}
-
 .footer__menu-list li:first-child a {
   text-decoration: none;
 }
